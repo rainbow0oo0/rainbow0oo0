@@ -19,6 +19,6 @@
 
 </div>
 
-📌 자세한 내용은 [포트폴리오(Notion)](https://www.notion.so/BNK-DT-229b8bcadcf8801992c2c45529ebc985?source=copy_link)와 각 프로젝트 리포지토리를 참고해주세요.
+📌 자세한 내용은 리포지토리를 참고해주세요.
 
 ---
